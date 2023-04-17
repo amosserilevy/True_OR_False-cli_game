@@ -16,8 +16,7 @@ question_data = [
     {"category": "General Knowledge",
      "type": "boolean",
      "difficulty": "easy",
-     "question": "It is automatically considered entrapment in the United States "
-                 "if the police sell you illegal substances without revealing themselves.",
+     "question": "It is automatically considered entrapment in the United States if the police sell you illegal substances without revealing themselves.",
      "correct_answer": "False",
      "incorrect_answers": ["True"]
     },
@@ -45,16 +44,14 @@ question_data = [
     {"category": "General Knowledge",
      "type": "boolean",
      "difficulty": "easy",
-     "question": "One of Donald Trump&#039;s 2016 Presidential Campaign promises was to build a border wall between"
-                 " the United States and Mexico.",
+     "question": "One of Donald Trump&#039;s 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.",
      "correct_answer": "True",
      "incorrect_answers": ["False"]
     },
     {"category": "General Knowledge",
      "type": "boolean",
      "difficulty": "easy",
-     "question": "&quot;27 Club&quot; is a term used to refer to a list of famous actors, musicians, "
-                 "and artists who died at the age of 27.",
+     "question": "&quot;27 Club&quot; is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.",
      "correct_answer": "True",
      "incorrect_answers": ["False"]
     },
